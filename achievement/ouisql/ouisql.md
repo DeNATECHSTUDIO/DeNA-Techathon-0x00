@@ -11,7 +11,7 @@ C++で学ぶディープラーニングの実装をしてデータ解析をす�
 　"https://qiita.com/mdmom/items/24540254bd64beac73fc"
 Open Logicの設定がおすすめ。他の設定ではcpu構成が高いものしか
 選択できない。
- vnc接続は一度はできたが、black screenとなる。Azureでそれらしいpot開けたが変わらず。
+ vnc接続は一度はできたが、black screenとなる。Azureでそれらしいport開けたが変わらず。
 
 ##  C++で学ぶディープラーニング　 
 　"http://amzn.asia/fLm4KG3"      　　　
