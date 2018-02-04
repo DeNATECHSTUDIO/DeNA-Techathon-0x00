@@ -1,3 +1,4 @@
+
 #2/4  Techathon 成果報告シ-ト@dena  
 
 ##Azure上でcentos7.4 セットアップ　ローカルPCとvnc接続　　  　　
