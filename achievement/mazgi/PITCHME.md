@@ -1,18 +1,17 @@
-@title[Introduction]
+@title[Shin-Cho-Ku]
 
-# Git<span class="gold">Pitch</span>
+# Git<span class="gold">つくったもの</span>
 
-#### Markdown Presentations For Everyone on Git.*
-<br>
-<br>
-<span class="byline">[ GitHub, GitLab, Bitbucket, GitBucket, Gitea, Gogs ]</span>
+#### GitHub repositories
+
+- [sakemeshi.terraform](https://github.com/mazgi/sakemeshi.terraform)
+- [sakemeshi.terraform-secret](https://github.com/mazgi/sakemeshi.terraform)(非公開)
 
 ---
 
-@title[PITCHME.md]
+@title[Nani-Kore-Nani-Kore]
 
-#### GitPitch turns <span class="gold">PITCHME.md</span> into
-#### interactive,
-#### online and offline slideshows.
-<br>
-<span class="aside">Just like this one...</span>
+# Git<span class="gold">やりたかったこと</span>
+
+(TBD)
+
